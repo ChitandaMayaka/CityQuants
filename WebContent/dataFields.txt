@@ -1,0 +1,46 @@
+Country - City
+Year
+Labor Availability 1
+Labor Availability (bilingual) 1
+Employed Bilingual Agents 1
+Annual Attrition Rate
+Union Presence & Activity
+Cultural Domain Acuity Model (CDAM)
+State or province of city
+Tier Classification
+Name of city
+Country Population
+Population Metro Area
+Population City
+Growth rate of city
+Wage Inflation Rate
+Labor cost per agent/daily
+Supervisor
+Attrition rates (avg reported attrition)
+Real Estate Cost (per sq.ft/annum)
+Telecom Cost (Monthly)
+Teledensity Landline/dial-up
+Teledenstity Mobility
+Internet Connectivity
+Electricity Cost p KWh
+Growth rate of Call Center & BPO Sector
+service suppliers # in city
+WTO Free Zone Extension 2015
+CARICOM/CAFTA-DR MEMBER
+GDP (bb)
+GDP per capita
+GDP real growth rate
+unemployment
+Employment in IT/BPO Sector
+Inflation
+Corporate Tax Rate %
+Fringe Benefit %
+Employment Rate
+Labor availability 2
+Labor Availability (bilingual) 2
+Employed Bilingual Agents
+4 year university grads
+2-yr college/technical (per year)
+stock of graduates
+annual business graduates
+literacy rates
